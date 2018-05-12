@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5480
     wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Hanshew
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17180#The-Riddle-of-the-Frozen-Flame
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2005-11-29'
 gutenberg_type: Text
