@@ -1964,7 +1964,7 @@ THE SECOND VICTIM
 
 The alterations at Merriton Towers were certainly a success, from the
 builder's point of view at any rate. White paint had helped to dispel
-some of its gloominess, though there were whose who said that the whole
+some of its gloominess, though there were those who said that the whole
 place was ruined thereby. However, it was certainly an improvement to be
 able to have windows that opened, and to look into rooms that beckoned
 you with promises of cozy inglenooks, and plenty of brilliant sunshine.
@@ -2215,7 +2215,7 @@ possible make up for the day lost from 'Toinette.
 
 So, after a visit to a big confectioners in Regent Street, and another to
 a little jeweller in Piccadilly, Merriton got into the train at Waterloo,
-carrying his parcels With a happy heart. He got out at Fetchworth station
+carrying his parcels with a happy heart. He got out at Fetchworth station
 three hours later, hailed the only hack that stood there--for he had
 forgotten to apprise any one at the Towers of his quick return--and drove
 straightway to Withersby Hall.
@@ -2626,7 +2626,7 @@ so.... Funny thing, on the way down I run across a chap wot's visitin'
 pals in this 'ere village, and 'e pulls me the strangest yarn as ever a
 body 'eard. Summink to do wiv flames it were--Frozen Flames or icicles or
 frost of some kind. But 'e was so full up of mystery that there weren't
-no gettin' nuffin out er' im. Any one 'ere tell me the story? 'E fair got
+no gettin' nuffin out er 'im. Any one 'ere tell me the story? 'E fair got
 me curiosity fired, 'e did!"
 
 A glance laden with sinister meaning flew around the table. Borkins
@@ -3436,7 +3436,7 @@ ashamed of myself, thought what a fool I'd look in front of the boys if
 they heard the story; and just at that moment Doctor Bartholomew knocked
 at the door."
 
-Here the doctor nodded vigorously as thought to corroborate these
+Here the doctor nodded vigorously as though to corroborate these
 statements, and made as if to speak.
 
 Cleek silenced him with a gesture.
@@ -4572,7 +4572,7 @@ there. Awful creature, that woman!"
 
 "Looks like a jelly-fish come loose," threw in Dollops with a snort.
 "There's ole Borkins, sir, straight ahead. 'Ere--in through this gap in
-this edge and then across the field by the side of 'im.... Weren't such a
+this 'edge and then across the field by the side of 'im.... Weren't such a
 rough night after all, was it, sir?"
 
 Cleek sighed. One might almost have thought that he regretted the fact.
@@ -5603,7 +5603,7 @@ in the chain.... Hello! here's a gap in the hedge here. Looks like it had
 been made on purpose. Let's go and investigate."
 
 He whipped his little torch round and the circle of light flashing over
-the ground, revealed to their searching eyes something vastly unexpected
+the ground revealed to their searching eyes something vastly unexpected
 in such a place and yet which, after all, seemed to fit into a place
 where so much mystery and secretiveness was in the air. They themselves,
 disguised as such rough characters, fitted into the strange picture,
@@ -6110,7 +6110,7 @@ Dollops handed it over into the hands that were outstretched to receive
 it, and went back for another one. Back and forth and back and forth they
 went, lifting, carrying, delivering, until one boat was loaded, and
 another one hove into sight in its place. He watched the first one's slow
-progress out across the murky waters for a moment, making a pretense of
+progress out across the murky waters for a moment, making a pretence of
 mopping his forehead with his handkerchief meanwhile. It was loaded
 _below_ the water-mark! It hung so low in the water that it looked a mere
 smudge upon the face of it, a ribbon of sail flapping from its slender
@@ -6274,7 +6274,7 @@ Cleek with a little smile, as he stood looking up at the square of black
 oak above them. "I believe you're right, Dollops. It must have given the
 later arrivals a big start in that tunnelling business, or else they've
 been at it, or both. There must be years' work in this system of
-passageways. It is marvelous. But if it's a genuine old secret passage,
+passageways. It is marvellous. But if it's a genuine old secret passage,
 those stairs will probably lead up into a house, and--let's try 'em. If
 the house they lead into is the one I think it is.... Well, we'll be
 unravelling the rest of this riddle before the night is out!"
@@ -6449,7 +6449,7 @@ a-comin' out. 'Eard the case 'ad gone against Sir Nigel, sir--poor chap.
 
 But Dollops was gone in his master's wake, in his arms a huge, ungainly
 bundle that looked like a stove-pipe wrapped up in brown paper, gone
-through the courtroom door, without so much as passing the time of day
+through the court room door, without so much as passing the time of day
 with an old pal. Petrie felt distinctly hurt about it, and sauntered back
 to his place with his smile gone, while Cleek, hurrying through the
 crowded court room and passing, by the sheer power of his name, the
@@ -6545,7 +6545,7 @@ for it."
 
 He turned back to the table with something of suppressed eagerness in his
 movements, and a low murmur of excitement went up round the crowded
-courtroom. Rapidly he tore off the wrappings from the long, snake-like
+court room. Rapidly he tore off the wrappings from the long, snake-like
 bundle, and held one of the objects up to view.
 
 "Allow me to draw your attention to this," he said, in a loud, clear
@@ -6956,7 +6956,7 @@ belongs, by the way, to Miss Brellier."
 
 "_Miss Brellier!_"
 
-Something like a thrill ran through the crowded courtroom. In the silence
+Something like a thrill ran through the crowded court room. In the silence
 that followed you could have heard a pin drop.
 
 "That is correct. She will tell you that she always kept it in an unused
